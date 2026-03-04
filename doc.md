@@ -1,7 +1,7 @@
 # Robobloq Feelin Light Q1 - Reverse Engineering Documentation
 
 ## Overview
-This document describes the reverse engineering process of the Robobloq "Feelin Light Q1" LED light strip (also sold as "SyncLight") and provides a native Linux solution for controlling it.
+This document describes the reverse engineering process of the Robobloq "Feelin Light Q1" LED light strip (also sold as "SyncLight") and provides a native Linux solution for controlling it. The original Windows application can be found at [quiklight.robobloq.com/download](https://quiklight.robobloq.com/download).
 
 ## Device Information
 - **Product Name**: Robobloq Feelin Light Q1 / SyncLight

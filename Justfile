@@ -2,9 +2,13 @@
     just --list
 
 # Run complex QA testing
-qa:
+qa: fmt
     cargo check
     cargo clippy
+
+# Format the code
+fmt:
+    cargo fmt --all
     
 # Build release version
 release:
